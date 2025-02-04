@@ -12,18 +12,6 @@ This project is a **Voice-Activated Task Scheduler**, which allows users to crea
 
 This project requires the following Python libraries:
 
-```python
-openai
-python-dotenv
-sounddevice
-scipy
-numpy
-schedule
-twilio
-pydub
-soundfile
-```
-
 You can install these dependencies by running the following command:
 
 ```bash
