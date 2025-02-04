@@ -1,0 +1,9 @@
+openai
+python-dotenv
+sounddevice
+scipy
+numpy
+schedule
+twilio
+pydub
+soundfile
